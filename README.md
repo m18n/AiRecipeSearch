@@ -58,6 +58,8 @@ presents it in a clean and readable format, and always links back to the **origi
 - **HTTP Client:** Axios
 - **Markdown Rendering:** marked
 
+> ⚠️ **Note:** My frontend knowledge is at a basic level, so the frontend part of this project was developed with the assistance of AI tools.
+
 ## Features
 
 - AI-powered recipe search with background job processing
@@ -89,10 +91,6 @@ presents it in a clean and readable format, and always links back to the **origi
    ```
 
 2. **Configure environment**
-   ```bash
-   cp .env.example .env
-   # Fill in the required values
-   ```
 
 3. **Build the frontend**
    ```bash
