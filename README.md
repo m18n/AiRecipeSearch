@@ -291,7 +291,3 @@ users
 |---|---|---|---|
 | `GET` | `/api/v1/countries` | ❌ | List available countries |
 | `GET` | `/api/v1/languages` | ❌ | List available languages |
-
-## License
-
-...
