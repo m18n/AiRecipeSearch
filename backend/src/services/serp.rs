@@ -137,7 +137,7 @@ impl SerpClient {
         self.limiter.acquire().await;
 
         let payload = json!({
-            "zone": "serp_api1",
+            "zone": "serp_api2",
             "url": url,
             "format": "raw",
             "data_format": "parsed_light"
